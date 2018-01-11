@@ -9,7 +9,7 @@ export default class IntroCard extends React.Component {
                     <div className="card   row">
                         <div className="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-1 col-md-3 col-md-offset-2">
                             <div className="row">
-                                <img className="front__image img-responsive" src="http://carloshglez.com\proyectos\personal\carloshglez.com_v2\imagenes\logo_portada.png"
+                                <img className="front__image img-responsive" src="http://carloshglez.com/carloshglez.com/proyectos/personal/carloshglez.com_v2/imagenes/logo_portada.png"
                                     alt="" />
                             </div>
                         </div>
