@@ -1,12 +1,12 @@
 {
     "-": "-",
     "name": "Carlos Horacio González Gordillo",
-    "mainHeader": "Ingeniero en Tecnologías Computacionales",
-    "subHeader": "Concentración en Ingeniería de Software",
+    "mainHeader": "Computer Science Engineer",
+    "subHeader": "Software Engineering",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
     "legalLabel": "2018 - carloshglez",
     "contactInfo": {
-        "title": "Contacto",
+        "title": "Contact",
         "phone": "+52 (811) 011 36 21",
         "phoneLink": "tel:+528110113621",
         "email": "carlos_3349@hotmail.com",
@@ -15,73 +15,72 @@
         "skype": "carloshglez",
         "skypeLink": "skype:carloshglez?call",
         "resumePath": "carloshglez.com/cv/CV_CarlosGonzalez.pdf",
-        "resumeDownloadLabel": "DescargarCV",
+        "resumeDownloadLabel": "Download Resume",
         "extraInfo": [
-            "Disponibilidad para viajar y cambiar de residencia."
+            "Availability to change residence and travel."
         ],
         "contactForm": {
-            "title": "Envíame un mensaje aquí:",
-            "namePlaceholder": "Tu nombre",
-            "nameError": "Por favor, escribe tu nombre",
-            "emailPlaceholder": "Tu email",
-            "emailError": "Por favor, escribe tu email",
-            "emailRequiredError": "Por favor, escribe correctamente un correo",
-            "messagePlaceholder": "Escribe tu mensaje aquí",
-            "messageError": "Por favor, escribe tu mensaje",
-            "buttonLabel": "Enviar"
+            "title": "Send me a message:",
+            "namePlaceholder": "Your name",
+            "nameError": "Please, what's your name?",
+            "emailPlaceholder": "Your e-mail",
+            "emailError": "Please, what's your e-mail?",
+            "emailRequiredError": "Please, write a proper e-mail",
+            "messagePlaceholder": "Your message...",
+            "messageError": "Tell me something :)",
+            "buttonLabel": "Send"
         }
     },
     "sections": {
         "welcome": {
-            "title": "¡Hola!",
+            "title": "Hi!",
             "content": [
-                "Te doy la bienvenida a mi sitio personal desarrollado con el propósito de mostrar mi experiencia profesional a través de los proyectos en los que he participado, así como las habilidades y conocimientos que he adquirido.",
-                "Me gusta el uso de los celulares, tablets y otros innovadores gadgets para la solución de problemas comunes en la vida diaria y profesional. También me siento atraido por el desarrollo en entornos móviles y web."
+                "Welcome to my personal site!. I developed this place with the purpose of showing my professional experience through the projects in which I have participated, as well as the skills and knowledge that I have acquired.",
+                "I like mobile devices, tablets and other innovative gadgets for solving common problems in daily and professional life. I love to development in mobile and web environments."
             ]
         },
         "career": {
-            "title": "Mi Trayectoria",
+            "title": "My Career",
             "content": [
-                "Con el conocimiento adquirido en el desarrollo del lenguaje Java, tengo las bases para la implementación de soluciones en plataformas móviles híbridas o nativas, principalmente Android.",
-                "Tengo la disposición de continuar adquiriendo técnicas para desarrollo en más plataformas que ayuden al aumento de productividad en los diferentes ámbitos tecnológicos, aportando nuevas ideas, y comprometido a laborar de manera activa."
+                "With the knowledge acquired in development of Java, I am confident to implement solutions in embebbed systems, hybrid mobile platforms or native, mainly Android",
+                "I want to acquire techniques for development in more platforms that help to increase productivity in the different technological sectors. I am ready to continue learning, creating new ideas, and do my best effort in the tasks assigned to me."
             ]
         },
         "education": {
-            "title": "Formación Académica",
+            "title": "Education",
             "content": [
                 {
-                    "degree": "Máster en Desarrollo de Aplicaciones Móviles",
+                    "degree": "Master Degree: Mobile App Development",
                     "startDate": "2015",
                     "endDate": "2016",
                     "school": "Universidad Internacional de la Rioja",
                     "achievement": []
                 },
                 {
-                    "degree": "Ingeniería de Software / Modalidad Emprendedora",
+                    "degree": "Software Engineering / Entrepreneurial Experience",
                     "startDate": "2007",
                     "endDate": "2012",
                     "school": "Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Central de Veracruz",
                     "achievement": [
-                        "Beca Económica por Promedio de 95",
-                        "Mención Honorífica de Excelencia",
-                        "CENEVAL EGEL-ISOFT: Sobresaliente"
+                        "Honorable mention for excellence and GPA 95",
+                        "CENEVAL EGEL-ISOFT: 'Sobresaliente'"
                     ]
                 }
             ]
         },
         "professionalExperience": {
-            "title": "Experiencia Profesional",
+            "title": "Profesional Experience",
             "content": [
                 {
                     "company": "Softtek GDL",
                     "startDate": "2017",
-                    "endDate": "Actual",
+                    "endDate": "Today",
                     "summary": [
-                        "Desarrollador y Soporte para DXC Technologies México",
-                        "Desarrollo Front-end con ReactJS/Node/Redux/Webpack enfocado a componentes.",
-                        "Uso de dependencias relacionadas al desarrollo con ReactJS (npm).",
-                        "Gestión de micro servicios con Docker.",
-                        "Automatización de tareas usando Jenkins."
+                        "Support and Development for DXC Technologies México",
+                        "Front-End development using ReactJS/Node/Redux/Webpackc component and microservices oriented.",
+                        "Dependency manager related to ReactJS development (npm).",
+                        "Docker management of microservices",
+                        "Jenkins automation scripts."
                     ]
                 },
                 {
@@ -89,17 +88,16 @@
                     "startDate": "2012",
                     "endDate": "2017",
                     "summary": [
-                        "Programación en Java (Front-end/Back-end), Spring MVC, Servicios Web.",
-                        "Desarrollo de aplicaciones web en JSP con PostgreSQL.",
-                        "Configuración básica Glassfish",
-                        "Uso de Protocol Buffers para intercambio de mensajes usando servicios Web Restful.",
-                        "Implementación de algoritmo de Licenciamiento de Software a través de tráfico de red.",
-                        "Implementación de test con Selenium.",
-                        "Desarrollo en Android (OAuth 2.0, XML parser, AsyncTask)",
-                        "Pruebas de unidad e integración (JUnit / Mockito).",
-                        "Estandares de seguridad OWASP.",
-                        "Scripting en Bash/Shell.",
-                        "Monitoreo en New Relic."
+                        "Java Developer (Front-end/Back-end), Spring MVC and Web Services",
+                        "Web Development using JSP and PostgreSQL",
+                        "Glassfish Server management",
+                        "Comunication using Protocol Buffers with Restful Web Services",
+                        "Licensing Alghorith Task to manage network troughput.",
+                        "Basic Android Development (OAuth 2.0, XML parser, AsyncTask)",
+                        "Unit and Integration testing (JUnit / Mockito / Selenium)",
+                        "OWASP Security Standard.",
+                        "Bash/Shell Scripting.",
+                        "New Relic Monitoring."
                     ]
                 },
                 {
@@ -107,19 +105,19 @@
                     "startDate": "2008",
                     "endDate": "2011",
                     "summary": [
-                        "Asistente de programación, prácticas profesionales",
-                        "Programación en Java, Php, pruebas de unidad e integración.",
-                        "Desarrollo en HTML, CSS, jQuery y Android.",
-                        "Manejo de información en MySQL"
+                        "Developer assistant for professional training.",
+                        "Java, PHP development with unit and Integration tests,",
+                        "HTML, CSS, jQuery and Android.",
+                        "MySQL data management"
                     ]
                 }
             ]
         },
         "certificates": {
-            "title": "Cursos y Certificaciones",
+            "title": "Courses and Certificates",
             "content": [
                 {
-                    "name": "Cursos en Línea de Lynda.com",
+                    "name": "Lynda.com Online Courses",
                     "date": "2017",
                     "summary": [
                         "Learning Path: Become a React Developer"
@@ -144,19 +142,19 @@
                     "name": "ITESM Campus Central de Veracruz",
                     "date": "2009-2012",
                     "summary": [
-                        "2012: Congreso de Ingeniería Industrial y de Sistemas C12",
-                        "2010: Curso de modelación en Maya",
+                        "2012: Congress of Industrial and Systems Engineering C12",
+                        "2010: 3D model with Maya",
                         "2010: ACM - Latin American Regional Contest, Puebla",
-                        "2009: Programa de 5S"
+                        "2009: 5S Methodology"
                     ]
                 }
             ]
         },
         "knowledge": {
-            "title": "Habilidades y Conocimientos",
+            "title": "Knowledge and Skills",
             "topics": [
                 {
-                    "title": "Tecnologías Web",
+                    "title": "Web Technologies",
                     "tools": [
                         {
                             "name": "JSP",
@@ -189,7 +187,7 @@
                     ]
                 },
                 {
-                    "title": "Plataformas Móviles",
+                    "title": "Mobile Platforms",
                     "tools": [
                         {
                             "name": "Android",
@@ -206,7 +204,7 @@
                     ]
                 },
                 {
-                    "title": "Base de Datos",
+                    "title": "Databases",
                     "tools": [
                         {
                             "name": "MySQL",
@@ -227,7 +225,7 @@
                     ]
                 },
                 {
-                    "title": "Herramientas de Desarrollo",
+                    "title": "Server Tools",
                     "tools": [
                         {
                             "name": "XAMPP / LAMPP",
@@ -252,7 +250,7 @@
                     ]
                 },
                 {
-                    "title": "Herramientas de Software",
+                    "title": "Software Development Tools",
                     "tools": [
                         {
                             "name": "Netbeans / Eclipse / Visual Studio Code",
@@ -287,7 +285,7 @@
             ]
         },
         "briefcase": {
-            "title": "Portafolio de Aplicaciones",
+            "title": "My Apps",
             "topics": {
                 "profession": [
                     {
@@ -295,8 +293,8 @@
                         "image": "carloshglez.com/logos/smartmenu_logo.png",
                         "gallery": [],
                         "summary": [
-                            "Es un servicio integral para restaurantes donde la carta tradicional evoluciona para mostrar información detallada a los comensales e interactuar para ver los platillos, agregarlos a su orden, o pedir la cuenta. Mientras que permite un control sobre los elementos básicos: secciones de la carta, platillos y reportes acerca de cómo está funcionando su negocio.",
-                            "Agrega el uso de la tecnología en el negocio de restaurantes en sus procesos permitiendo un incremento en la calidad, producción y utilidades."
+                            "All-in-one service for restaurants where the traditional menu evolves to show detailed information to the customers and interact to see how the dishes look like, add them to an order, or request the account. At the same time, it allows management in: sections of the menu, preferences and reports about how your business is working.",
+                            "It adds the use of technology in the restaurant business in its processes incrementing quality, production and profits."
                         ],
                         "tools": [
                             "Android",
@@ -308,12 +306,12 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "SARA (Sistema Administrativo Radiológico)",
+                        "title": "SARA (Radiological Administrative System)",
                         "image": "carloshglez.com/logos/sara_logo.png",
                         "gallery": [],
                         "summary": [
-                            "Proyecto donde se realizó el diseño, desarrollo e implementación de un sistema para la gestión de un gabinete radiológico.",
-                            "Está conformado por varios módulos que cubren las diferentes áreas del negocio tales como: recepción de pacientes, captura de estudios, reportes administrativos, catálogos de estudios y precios, bitácora de uso, historial de pacientes e interpretación radiológica."
+                            "Project where the design, development and implementation of a system for the management of a radiological cabinet was accomplished.",
+                            "It consists of several modules that cover the different areas of the business such as: patient reception, study capture, administrative reports, catalogs of studies and prices, patient history and radiological interpretation."
                         ],
                         "tools": [
                             "Java",
@@ -325,7 +323,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Sistema de Vigilantes",
+                        "title": "Watchman System",
                         "image": "carloshglez.com/logos/vigilantes_logo.png",
                         "gallery": [
                             [
@@ -354,9 +352,9 @@
                             ]
                         ],
                         "summary": [
-                            "Sistema desarrollado para el control de rutas, movimientos y tiempos de los recorridos del personal de vigilancia.",
-                            "Permite visualizar las revisiones realizadas en un formato de reporte para evaluar la efectividad del personal en sus rutinas y chequeos por parte del administrador. También permite administrar el personal de vigilancia y el equipo de control de chequeos.",
-                            "Implementado en el Tecnológico de Monterrey Campus Central de Veracruz con el objetivo fundamental de mantener un control y monitoreo del correcto labor del personal de vigilancia favoreciendo la seguridad en el campus y agilidad ante una emergencia."
+                            "System developed for the control of routes, movements and times of the tours of the surveillance personnel.",
+                            "It allows to visualize the revisions made in a report format to evaluate the effectiveness of the personnel in their routines and checks by the administrator. It also allows for the management of surveillance personnel and the check-up control team.",
+                            "Implemented in the Tecnológico de Monterrey Campus Central of Veracruz with the fundamental objective of maintaining a control and monitoring of the correct work of the personnel of supervision favoring the security in the campus and agility in the event of an emergency."
                         ],
                         "tools": [
                             "Java",
@@ -367,7 +365,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Gestión de Procesos",
+                        "title": "Process Management",
                         "image": "carloshglez.com/logos/procesos_logo.png",
                         "gallery": [
                             [
@@ -388,8 +386,8 @@
                             ]
                         ],
                         "summary": [
-                            "Aplicación web para el almacenamiento y consulta de diagramas y manuales de los procesos que involucran las diferentes áreas de los departamentos. Enfocado a la autocapacitación del nuevo recurso humano en su área correspondiente.",
-                            "Implementado en el Tecnológico de Monterrey Campus Central de Veracruz con el objetivo fundamental de mantener un orden y control de los procesos que realiza el personal, así como su estudio para la rotación del recurso humano."
+                            "Web application for the storage and revision of diagrams and manuals of the processes that involve the different areas of the departments. Focused on the self-training of the new human resource in its corresponding area.",
+                            "Implemented in the Tecnológico de Monterrey Campus Central of Veracruz with the fundamental objective of maintaining order and control of the processes carried out by the personnel, as well as their study for the rotation of the human resource."
                         ],
                         "tools": [
                             "C#",
@@ -400,7 +398,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Programa de 5S",
+                        "title": "5S Methodology",
                         "image": "carloshglez.com/logos/programa5s_logo.png",
                         "gallery": [
                             [
@@ -429,8 +427,8 @@
                             ]
                         ],
                         "summary": [
-                            "Aplicación web para la correcta administración de la información del programa de gestión de calidad donde se puede administrar las evidencias, los comentarios y llevar los históricos de las auditorias internas.",
-                            "Implementado en el Tecnológico de Monterrey Campus Central de Veracruz con el objetivo fundamental de elevar la calidad de servicio y atención, para lo cual utiliza como estrategia la metodología de '5S' creando un entorno de trabajo ordenado, limpio y seguro, en el que se facilita la realización de las tareas cotidianas dando como resultados servicios con calidad y bajos costos."
+                            "Web application to manage the information of the program of quality where it is possible to keep track of evidences, the comments and to take the histories of the internal audits.",
+                            "Implemented in the Tecnológico de Monterrey Campus Central de Veracruz with the fundamental objective of raising the quality of service and attention, for which it uses as strategy the methodology of '5S' creating a clean, safe and orderly work environment, in which Facilitates the accomplishment of the daily tasks giving results like services with quality and low costs."
                         ],
                         "tools": [
                             "PHP",
@@ -445,13 +443,13 @@
                         ]
                     },
                     {
-                        "title": "Pantalla Braille",
+                        "title": "Braille Display",
                         "image": "carloshglez.com/logos/braille_logo.png",
                         "gallery": [],
                         "summary": [
-                            "Proyecto a cargo del equipo de investigación y desarrollo como parte del Servicio Social del Tecnológico de Monterrey Campus Central de Veracruz.",
-                            "Construcción de una Pantalla Braille de bajo costo, un dispositivo capaz de transformar libros en formato electrónico PDF al propio sistema de lecto-escritura de las personas invidentes, el código Braille. Con ello reducir la brecha digital que existe para este sector de la población.",
-                            "Las actividades realizadas: creación del algortimo de uso, librerias de software para la traducción de libros e interacción del dispositivo con el usuario, desarrollo de simulador como prototipo."
+                            "Project in charge of the research and development team as part of the Social Service of the Tecnológico de Monterrey Campus Central de Veracruz.",
+                            "Construction of a low-cost Braille display, a device capable of transforming electronic PDF books into the reading and writing system of blind people, the Braille code. This will reduce the digital trouble that exists for this sector of the population.",
+                            "The activities carried out: creation of the use algorithm, software libraries for the translation of books and interaction of the device with the user, development of simulator as prototype."
                         ],
                         "tools": [
                             "C",
@@ -461,7 +459,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Sitio Web Fundación Roma",
+                        "title": "Web Site 'Fundación Roma'",
                         "image": "carloshglez.com/logos/fundacion_logo.png",
                         "gallery": [
                             [
@@ -482,8 +480,8 @@
                             ]
                         ],
                         "summary": [
-                            "Promoción de Ciegos Fundación Roma A.C. a través de las tecnologías de información para concientizar a la sociedad y brindar información sobre los servicios brindados.",
-                            "El proyecto implementa el diseño, creación y enlace de un sitio web tomando en cuenta las características de la Interacción Humano-Computadora y necesidades del usuario."
+                            "Promotion of 'Fundacion Roma A.C.' through information technologies to raise awareness of society and provide guides on the services provided.",
+                            "The project implements the design, creation and deployment of a website taking into account the characteristics of Human-Computer Interaction and user needs."
                         ],
                         "tools": [
                             "PHP",
@@ -494,12 +492,12 @@
                 ],
                 "academic": [
                     {
-                        "title": "Spots de Publicidad",
+                        "title": "Advertising Spots",
                         "image": "carloshglez.com/logos/spots_logo.png",
                         "gallery": [],
                         "summary": [
-                            "Aplicación desarrollada en Android para tablets que permite mostrar videos promocionales con el objeto de colocarse dentro de negocios o establecimientos comerciales y dar a conocer al público algún tema o producto en particular.",
-                            "Realiza una sincronización remota para mantener actualizados los anuncios que se requieran mostrar sin tener que manipular el dispositivo."
+                            "Application development in Android for tablets that allows to display promotional videos in order to be placed in businesses or commercial establishments.",
+                            "Perform a remote synchronization to keep the ads that need to be updated without having to manipulate the device."
                         ],
                         "tools": [
                             "Android"
@@ -507,13 +505,13 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Metodología de Software",
+                        "title": "Software Methodology",
                         "image": "carloshglez.com/logos/metodologia_logo.png",
                         "gallery": [],
                         "summary": [
-                            "Aplicación en el mundo real que aplica el razonamiento temporal dentro del contexto de los procesos llevados a cabo en el ciclo de vida del desarrollo de software.",
-                            "Determina, a partir de las incoherencias y redundancias en sus relaciones, la metodología más completa y adaptable en los proyectos de software.",
-                            "Se analizan las siguientes metodologías: cascada, iterativo, espiral."
+                            "Real world application that applies temporal reasoning within the context of the processes carried out in the software development lifecycle.",
+                            "It determines, from the inconsistencies and redundancies in their relations, the most complete and adaptable methodology in software projects.",
+                            "The following methodologies are analyzed: cascade, iterative, spiral."
                         ],
                         "tools": [
                             "Java"
@@ -521,7 +519,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Sistema de Cifrado",
+                        "title": "Encryption System",
                         "image": "carloshglez.com/logos/cifrado_logo.png",
                         "gallery": [
                             [
@@ -542,7 +540,7 @@
                             ]
                         ],
                         "summary": [
-                            "Con la intención de demostrar los resultados de los algoritmos de cifrado MD5 y RC4 se desarrolló un programa que permite realizar el cifrado de frases o archivos de texto en MD5, RC4 o en una combinación que permite aumentar la seguridad del cifrado."
+                            "In order to demonstrate the results of MD5 and RC4 encryption algorithms, a program was developed that allows the encryption of text phrases or files in MD5, RC4 or in a combination that increases the security of encryption."
                         ],
                         "tools": [
                             "Java"
@@ -550,7 +548,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Tienda en línea",
+                        "title": "Online store",
                         "image": "carloshglez.com/logos/tienda_logo.png",
                         "gallery": [
                             [
@@ -579,9 +577,9 @@
                             ]
                         ],
                         "summary": [
-                            "Desarrollo de un sitio de comercio electrónico Business-to-Consumer para la búsqueda y venta de productos.",
-                            "Pemite que los clientes accedan al catálogo de productos de manera remota, buscar y seleccionar los productos que vayan a comprar a través de un carrito de compras.",
-                            "Implementa una sección para administradores que permite realizar la gestión de los productos: altas, bajas, y modificación de los datos de productos registrados."
+                            "Development of a Business-to-Consumer e-commerce site for the search and sale of products.",
+                            "Allow customers to access the product catalog remotely, search and select the products they are going to buy through a shopping cart.",
+                            "It implements a section for administrators that allows to manage the products: registrations, declines, and modification of the data of registered products."
                         ],
                         "tools": [
                             "PHP",
@@ -597,7 +595,7 @@
                         ]
                     },
                     {
-                        "title": "Rifas y Sorteos",
+                        "title": "Raffles and Sweepstakes",
                         "image": "carloshglez.com/logos/rifa_logo.png",
                         "gallery": [
                             [
@@ -618,8 +616,8 @@
                             ]
                         ],
                         "summary": [
-                            "Aplicación para la resolución de rifas y sorteos con la innovación del uso del correo como medio de comunicación para publicar los resultados.",
-                            "Permite leer desde un archivo de texto los datos de los participantes para seleccionar al ganador. Además tiene la opción de enviar correo a todos los participantes notificando quién fue el ganador."
+                            "Application for the resolution of raffles and sweepstakes with the innovation of the use of the mail as means of communication to publish the results.",
+                            "It allows reading from a text file the data of the participants to select the winner. You also have the option to send mail to all participants notifying the winner."
                         ],
                         "tools": [
                             "Java"
@@ -627,7 +625,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Agencia de Viajes",
+                        "title": "Travel Agency",
                         "image": "carloshglez.com/logos/agencia_logo.png",
                         "gallery": [
                             [
@@ -680,8 +678,8 @@
                             ]
                         ],
                         "summary": [
-                            "Proyecto desarrollado para la gestión de paquetes de una agencia de viajes. El sistema se enfoca a las personas que confirman y crean los paquetes de viajes de los clientes. Permite hacer reservaciones de hoteles, renta de autos y boletos de avión y cruceros. Así mismo es posible analizar la información turística más relevante de los destinos registrados.",
-                            "Incluye la opción de gestionar los servicios ofrecidos y el stock de boletos o reservaciones disponibles."
+                            "Project developed for the package management of a travel agency. The system focuses on people who confirm and create customer travel packages. It allows to make hotel reservations, car rentals and airline tickets and cruises. It is also possible to analyze the most relevant tourist information of the registered destinations.",
+                            "It includes the option to manage the services offered and the stock of tickets or reservations available."
                         ],
                         "tools": [
                             "Java",
@@ -693,7 +691,7 @@
                         "demoUrl": []
                     },
                     {
-                        "title": "Sitio Web Congreso C10",
+                        "title": "Congress web site C10",
                         "image": "carloshglez.com/logos/c10_logo.png",
                         "gallery": [
                             [
@@ -718,7 +716,7 @@
                             ]
                         ],
                         "summary": [
-                            "Con el fin de promover el Décimo Congreso Internacional de Ingeniería Industrial y de Tecnologías de la Información que realiza anualmente el Tecnológico de Monterrey Campus Central de Veracruz, se desarrolló el sitio WebC10 para informar acerca de todo lo relacionado con el congreso."
+                            "In order to promote the Tenth International Congress of Industrial Engineering and Information Technology, which is held every year by the ITESM veracruz, this website was developed to inform about everything related to the congress."
                         ],
                         "tools": [
                             "Adobe Flash",
@@ -734,7 +732,7 @@
                         ]
                     },
                     {
-                        "title": "Estacionamiento",
+                        "title": "Parking lot",
                         "image": "carloshglez.com/logos/estacionamiento_logo.png",
                         "gallery": [
                             [
@@ -775,9 +773,9 @@
                             ]
                         ],
                         "summary": [
-                            "El programa representa una simulación para un estacionamiento que funciona las 24 horas del día.",
-                            "Se crea para facilitar el mantenimiento y control del estacionamiento en cuanto a la organización de los autos y la tarifa de acuerdo el tiempo estacionado. También es posible mantener un chequeo de las ganancias.",
-                            "Además se incluye una animación que permite ver gráficamente como los autos entran y salen del estacionamiento."
+                            "The program represents a simulation for a 24-hour parking lot.",
+                            "It is created to facilitate the maintenance and control of parking in terms of the organization of the cars and the rate according to the time parked. It is also possible to keep a profit check.",
+                            "It also includes an animation that allows you to see how cars enter and leave from the parking lot."
                         ],
                         "tools": [
                             "java",
@@ -788,11 +786,11 @@
                 ],
                 "personal": [
                     {
-                        "title": "Juego en reactJS",
+                        "title": "Chronoverse",
                         "image": "carloshglez.com/logos/reacteroids.png",
                         "gallery": [],
                         "summary": [
-                            "Con el propósito de aprender ReactJS, este juego tiene la capacidad para funcionar tanto en Web como en dispositivos móviles gracias al uso de aplicación progresiva y compilación nativo."
+                            "Project for ReactJS and agile web techologies learning. Thhis can be deployed and publshed as a progressive app, web app or Android App."
                         ],
                         "tools": [
                             "ReactJS",
@@ -813,11 +811,11 @@
                         ]
                     },
                     {
-                        "title": "Sitio Web Personal v2.5",
+                        "title": "Personal Web Site v2.5",
                         "image": "carloshglez.com/logos/webPersonal_Logo.png",
                         "gallery": [],
                         "summary": [
-                            "Desarrollado con el propósito de mostrar mi experiencia profesional a través de los proyectos en los que he participado, así como las habilidades y conocimientos que he adquirido. Se hace uso de diferentes utilerias de javascript en sitios web."
+                            "Developed with the purpose of showing my professional experience through the projects in which I participated, as well as the skills and knowledge that I have acquired. It makes use of different javascript utilities in websites."
                         ],
                         "tools": [
                             "ReactJS",
@@ -843,7 +841,7 @@
                         ]
                     },
                     {
-                        "title": "Memorama",
+                        "title": "Mind Challenge",
                         "image": "carloshglez.com/logos/memorama_Logo.jpg",
                         "gallery": [
                             [
@@ -864,9 +862,9 @@
                             ]
                         ],
                         "summary": [
-                            "Un juego clásico donde el objetivo es encontrar 10 pares descubriendo las imágenes que sean iguales.",
-                            "Pon a prueba tu memoria jugando con la modalidad de reto para encontrar todos los pares equivocandote la menor cantidad de veces, o juega en el modo clásico para pasar un rato divertido.",
-                            "Se uno de los afortunados que logran descubrir todos los pares. Pero mientras eso pasa... ¿Cuántos pares podrás encontrar...?"
+                            "A classic game where the goal is to find 10 pairs discovering the images that are the same.",
+                            "Test your memory by playing with the challenge mode to find all the pairs mistakenly the least amount of times, or play in classic mode to have a fun time.",
+                            "Be one of the lucky ones discovering all the pairs. But while that happens... How many pairs can you find ...?"
                         ],
                         "tools": [
                             "Java"
@@ -879,7 +877,7 @@
                         ]
                     },
                     {
-                        "title": "Simón dice . . .",
+                        "title": "Simon says . . .",
                         "image": "carloshglez.com/logos/simon_Logo.jpg",
                         "gallery": [
                             [
@@ -911,7 +909,7 @@
                         ]
                     },
                     {
-                        "title": "Buscando el tesoro",
+                        "title": "Looking for the Treasure",
                         "image": "carloshglez.com/logos/tesoro_Logo.jpg",
                         "gallery": [
                             [
@@ -936,8 +934,8 @@
                             ]
                         ],
                         "summary": [
-                            "Prueba tu suerte para encontrar el tesoro que está oculto en algunos de los cofres antes de que se acabe el tiempo.",
-                            "Conviértete en el mejor buscador de tesoros, encontrando pistas de ayuda y ganando en los diferentes modos de juego."
+                            "Try your luck to find the treasure that is hidden in some of the chests before the time runs out.",
+                            "Become the best treasure hunter, finding help tracks and winning in the different game modes."
                         ],
                         "tools": [
                             "Java"
@@ -950,7 +948,7 @@
                         ]
                     },
                     {
-                        "title": "Juego del gato",
+                        "title": "Cat's game",
                         "image": "carloshglez.com/logos/gato_Logo.jpg",
                         "gallery": [
                             [
@@ -967,8 +965,8 @@
                             ]
                         ],
                         "summary": [
-                            "El clásico juego del gato, también conocido como 'Tic Tac Toe' o 'Tres en raya', en una nueva versión. Podrás jugar entre dos jugadores o enfrentarte en un reto para vencer a la computadora.",
-                            "Revive este juego y demuestra tus habilidades encontrando el gato encerrado."
+                            "The classic cat game, also known as 'Tic Tac Toe' or 'Three in a Row', in a new version. You can play between two players or face a challenge to beat the computer.",
+                            "Relive this game and show your skills by finding the cat locked up."
                         ],
                         "tools": [
                             "Java"
@@ -981,7 +979,7 @@
                         ]
                     },
                     {
-                        "title": "Calendario",
+                        "title": "Calendar",
                         "image": "carloshglez.com/logos/calendario_Logo.jpg",
                         "gallery": [
                             [
@@ -998,7 +996,7 @@
                             ]
                         ],
                         "summary": [
-                            "Una sencilla aplicación para ver la fecha y hora actual. También puedes navegar y ver los meses. Además puedes cambiar el formato del reloj y buscar una fecha con el mes y año. Es una herramienta muy útil que no puede faltar para usar con tu agenda."
+                            "A simple application to view the current date and time. You can also browse and view the months. You can also change the clock format and search for a date with the month and year. <br>It is a very useful tool that can not miss to use with your agenda."
                         ],
                         "tools": [
                             "Java"
