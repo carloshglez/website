@@ -33,9 +33,9 @@ export default class App extends Component {
     }
 
     changeLanguage() {
-        if(this.state.activeLanguage === languageManager.SPANISH) {
+        if (this.state.activeLanguage === languageManager.SPANISH) {
             this.setEnglish();
-        } else if(this.state.activeLanguage === languageManager.ENGLISH) {
+        } else if (this.state.activeLanguage === languageManager.ENGLISH) {
             this.setSpanish();
         }
     }
@@ -57,6 +57,9 @@ export default class App extends Component {
     render() {
         return (
             <div>
+                <a href="#menu" className="float">
+                    <i className="fa fa-arrow-up my-float"></i>
+                </a>
                 <Menu
                     changeLanguage={this.changeLanguage.bind(this)}
                     availableLanguage={
