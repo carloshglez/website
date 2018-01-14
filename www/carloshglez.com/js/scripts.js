@@ -2,11 +2,11 @@
 $(document).ready(function () {	
     var toggleMobileMenu = function () {
         if ($(window).width() < 768) {
-            $('.menu-collapsed').toggleClass("menu-expanded");
+            $('.menu-collapsed').toggleClass('menu-expanded');
         }
     };
 
-    $(".menu-collapsed").on('click', function () {
+    $('.menu-collapsed').on('click', function () {
         toggleMobileMenu();
     });
 
@@ -28,7 +28,7 @@ $(document).ready(function () {
     //animating progress bars
     $('.js-skill-set').waypoint({
         handler: function () {
-            $(".progress-bar").each(function () {
+            $('.progress-bar').each(function () {
                 $(this).animate({
                     width: $(this).attr('aria-valuenow') + '%'
                 }, 200);
@@ -49,7 +49,7 @@ $(document).ready(function () {
 
     var animateHeader = function(header, text) {
         //clear header text
-        header.text("");
+        header.text('');
         //and animate it
         var nextAnimationStep = function() {
             if (text.length > 0) {
@@ -81,11 +81,11 @@ $(document).ready(function () {
     };
 
     var animatedHeaders = animateHeaders({
-        "#hello_header": '90%',
-        "#resume_header": '70%',
-        "#portfolio_header": '70%',
-        "#testimonials_header": '70%',
-        "#contacts_header": '70%'
+        '#hello_header': '90%',
+        '#resume_header': '70%',
+        '#portfolio_header': '70%',
+        '#testimonials_header': '70%',
+        '#contacts_header': '70%'
     });
 
     // Refresh waypoints on document size change (portfolo clicks)
@@ -198,27 +198,36 @@ $(document).ready(function () {
         var name = $('#name-input').val();
         var email = $('#email-input').val();
         var message = $('#message-input').val();
-
-		if(name !="" && email !="" && message !=""){
+        var languageFlag = $('#languageFlag').attr('alt');
+		if(name !='' && email !='' && message !=''){
 			var formData = {
 				name: name,
 				email: email,
 				message: message
-			};
+            };
 
 			$.ajax({
-			  type: "POST",
+			  type: 'POST',
 			  url: 'http://carloshglez.com/carloshglez.com/mail.php',
 			  data: formData,
 			  success: function() {
-				$('#form-submit-errors').text("Enviado correctamente");
+                if(languageFlag === 'English')
+                    $('#form-submit-errors').text('Enviado correctamente');
+                else
+                    $('#form-submit-errors').text('Sent successfully!');
 			  },
 			  error: function() {
-				$('#form-submit-errors').text("Algo anda mal...");
+                if(languageFlag === 'English')
+                    $('#form-submit-errors').text('Algo anda mal...');
+                else
+                    $('#form-submit-errors').text('Something is wrong...');
 			  }
 			});
 		} else {
-			$('#form-submit-errors').text("Algo anda mal...");
+			if(languageFlag === 'English')
+                $('#form-submit-errors').text('Falta llenar algún campo...');
+            else
+                $('#form-submit-errors').text('Some field is missing...');
 		}
 
         return false;

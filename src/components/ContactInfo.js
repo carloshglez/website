@@ -16,25 +16,25 @@ export default class ContactInfo extends React.Component {
                                                 <i className="fa fa-phone fa-2x" aria-hidden="true"></i>
                                             </dt>
                                             <dd>
-                                                <a href={this.props.contactInfo.phoneLink}>{this.props.contactInfo.phone}</a>
+                                                <a href={this.props.contactInfo.phoneLink} target="_blank">{this.props.contactInfo.phone}</a>
                                             </dd>
                                             <dt>
                                                 <i className="fa fa-envelope fa-2x" aria-hidden="true"></i>
                                             </dt>
                                             <dd>
-                                                <a href={this.props.contactInfo.emailLink}>{this.props.contactInfo.email}</a>
+                                                <a href={this.props.contactInfo.emailLink} target="_blank">{this.props.contactInfo.email}</a>
                                             </dd>
                                             <dt>
                                                 <i className="fa fa-linkedin fa-2x" aria-hidden="true"></i>
                                             </dt>
                                             <dd>
-                                                <a href={this.props.contactInfo.linkedin}>{this.props.contactInfo.skype}</a>
+                                                <a href={this.props.contactInfo.linkedin} target="_blank">{this.props.contactInfo.skype}</a>
                                             </dd>
                                             <dt>
                                                 <i className="fa fa-skype fa-2x" aria-hidden="true"></i>
                                             </dt>
                                             <dd>
-                                                <a href={this.props.contactInfo.skypeLink}>{this.props.contactInfo.skype}</a>
+                                                <a href={this.props.contactInfo.skypeLink} target="_blank">{this.props.contactInfo.skype}</a>
                                             </dd>
                                             <hr />
                                             <dt>

@@ -12,7 +12,7 @@ export default class Menu extends React.Component {
                                 <ul>
                                     <li>
                                         <a href="#" onClick={this.props.changeLanguage}>
-                                            <img alt={this.props.availableLanguage.name} src={this.props.availableLanguage.flagIcon}/>
+                                            <img id='languageFlag' alt={this.props.availableLanguage.name} src={this.props.availableLanguage.flagIcon}/>
                                         </a>
                                     </li>
                                     <li>

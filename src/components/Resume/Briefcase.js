@@ -23,7 +23,9 @@ export default class Briefcase extends React.Component {
     getGalleryItems(galleryArray, title) {
         let galleryItems = galleryArray.map(function (item, index) {
             return (
-                <a href={item[0]} className="lightview" data-lightview-group={index} data-lightview-title={title}
+                <a href={item[0]} className="lightview" 
+                    data-lightview-group={title} 
+                    data-lightview-title={title}
                     data-lightview-caption={item[1]} key={index}>
                     <img className="imgGaleria" src={item[0]} />
                 </a>
