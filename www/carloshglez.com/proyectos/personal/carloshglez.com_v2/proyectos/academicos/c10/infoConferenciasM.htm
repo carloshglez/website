@@ -1,0 +1,52 @@
+<table width="800" height="360" border="0" id="marco" align="center">
+	<tr>
+	<td width="200" align="center">
+	<table width="200" height="350" border="0" background="imagenes/fondoHospedaje1.png">
+				<tr>
+					<td>
+						<div align="center"><a href="#" onMouseover="moveup()" onMouseout="clearTimeout(moveupvar)"><img src="imagenes/up.gif" border=0></a></div>
+					</td>
+				</tr>
+				<tr>
+	<td><div id="container" style="position:relative;width:175px;height:280px;top:0px;border:0px solid black;z-index:1;overflow:hidden">
+			<div id="content" style="position:absolute;width:175px;left:0;top:0;z-index:1">		
+				<ilayer name="nscontainer" width=175 height=280 clip="0,0,175,280">
+					<layer name="nscontent" width=175 height=280 visibility=hidden>	
+						<center>
+										<a href="javascript:changeItem3(0)"><img src="imagenes/ConferenciaM.png" border="0" width="150" height="30"></a>
+										<br><br><br><br><font size="3" face="Arial" color="white"></font><br><br>
+										
+										<a href="javascript:changeItem3(1)"><img src="imagenes/ConferenciaM2.png" border="0" width="150" height="30"></a>
+										<br><br><br><br><font size="3" face="Arial" color="white"></font><br><br>
+							
+										<a href="javascript:changeItem3(2)"><img src="imagenes/ConferenciaM3.png" border="0" width="150" height="30"></a>
+										<br><br><br><br><font size="3" face="Arial" color="white"></font><br><br>
+						</center>
+					</layer>
+				</ilayer>
+			</div>
+		 </div>
+				</td>
+		</tr>
+		<tr>
+	<td><div align="center"><a href="#" onMouseover="movedown()" onMouseout="clearTimeout(movedownvar)"><img src="imagenes/down.gif" border=0 onLoad="getcontent_height(2)"></a></div>
+					</td>
+				</tr>
+		  </table>
+
+		</td>
+		<td width="100">&nbsp;
+			
+		</td>
+		<td width="500" align="center">
+			<table width="400" height="200" border="0" cellspacing="5" background="imagenes/fondoHospedaje2.png" id="info">
+				<tr>
+					<td valign="bottom"><div id="infoConferencias" align="center" class="style2">Logo</div></td>
+				</tr>
+				<tr>
+					<td valign="top"><div id="infoTexto" align="center" class="style2">Abstract de la conferencia</div></td>
+				</tr>
+		  </table>
+	  </td>
+    </tr>
+</table>
