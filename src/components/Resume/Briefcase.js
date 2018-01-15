@@ -10,10 +10,10 @@ export default class Briefcase extends React.Component {
 
     getAppImages(imagePath, galleryArray, title) {
         return (
-            <div className="portfolio_pic col-xs-12 col-sm-5">
+            <div className="portfolio_pic col-xs-12 col-sm-5" style={{textAlign: '-webkit-center'}}>
                 <br />
                 <br />
-                <img className="img-responsive" src={imagePath} alt="" width="380" />
+                <img className="img-responsive" src={imagePath} alt={title} width="250" />
                 <br />
                 {this.getGalleryItems(galleryArray, title)}
             </div>
