@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenido {
+	height: 360px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+#usuario {
+	font-size: 12px;
+}
+#clave {
+	font-size: 12px;
+}
+#btIngresar {
+	font-size: 10px;
+	font-weight: bold;
+}
+#tablaResultados {
+	font-size: 12px;
+	border: 1px solid #000000;
+	background-color:#EEF7F7;
+	text-align:center
+}
+#carrito {
+	font-size: 12px;
+	border: 1px solid #000000;
+	background-color:#EEF7F7
+}
+

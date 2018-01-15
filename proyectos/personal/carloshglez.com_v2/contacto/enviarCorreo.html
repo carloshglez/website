@@ -1,0 +1,62 @@
+﻿<table style="text-align: left; width: 550px;"
+ id="tablaInicio" align="center" border="0"
+ cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="text-align: justify;">
+	  Si deseas ponerte en contacto conmigo, envia un mensaje usando el siguiente espacio. Será un placer recibir tus comentarios o sugerencias.
+	  </td>
+    </tr>
+    <tr>
+	  <td>
+	    <img src="imagenes/barraBlanca.png"/>
+      </td>
+	</tr>
+	<tr>
+      <td>
+      <div id="formulario" align="center">
+		<form method="post" name="frm_contacto" id="frm_contacto" onSubmit="return false;">
+          <table width="540" border="0" cellpadding="5" cellspacing="5">
+            <tr id="box">
+              <td align="right">Tu Nombre: </td>
+              <td align="left"><input name="Nombre" type="text" id="Nombre" size="30" maxlength="50"></td>
+            </tr>
+            <tr id="box">
+              <td align="right">Tu Correo: </td>
+              <td align="left"><input name="Correo" type="text" id="Correo" size="30" maxlength="50"></td>
+            </tr>
+            <tr id="box">
+              <td align="right">Mensaje:</td>
+              <td align="left"><textarea name="Mensaje" cols="40" rows="5" id="Mensaje"></textarea></td>
+            </tr>
+            <tr>
+              <td colspan="2" rowspan="1">
+				<div id="msjRespuesta" style="float:left; font-weight:bold;" class="miTexto">
+					<br><br>
+				</div>
+				<div style="float:right;">
+					<input type="submit" name="btEnviar" id="btEnviar" value="Enviar"
+					onclick="javascript:enviar('contacto/enviarCorreo.php','frm_contacto','msjRespuesta')">
+					<input type="reset" id="Reset" value="Borrar">
+				</div>
+              </td>
+            </tr>
+          </table>
+		</form>
+	  </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+		<img src="imagenes/barraBlanca.png"/>
+	  </td>
+    </tr>
+	<tr>
+      <td align="center">
+	  <br>
+		<img src="imagenes/logo_mini.png" width="150" height="95"
+		id="ilumina" onmouseover="high(this)" onmouseout="low(this)"/>
+	  </td>
+    </tr>
+  </tbody>
+</table>
