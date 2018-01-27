@@ -6,7 +6,6 @@ import IntroCard from './components/IntroCard';
 import ContactInfo from './components/ContactInfo';
 import Footer from './components/Footer';
 import Resume from './components/Resume/Resume';
-import Briefcase from './components/Resume/Briefcase';
 
 import myDataES from './initialStateES'
 import myDataEN from './initialStateEN'
@@ -82,8 +81,6 @@ export default class App extends Component {
                     profession={this.state.data.sections.professionalExperience}
                     certificates={this.state.data.sections.certificates}
                     knowledge={this.state.data.sections.knowledge} />
-                <Briefcase
-                    briefcase={this.state.data.sections.briefcase} />
                 <ContactInfo
                     contactInfo={this.state.data.contactInfo} />
                 <Footer

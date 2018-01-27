@@ -29,9 +29,6 @@ export default class Menu extends React.Component {
                                         <a href="#habcon">{this.props.sections.knowledge.title}</a>
                                     </li>
                                     <li>
-                                        <a href="#portfolio">{this.props.sections.briefcase.title}</a>
-                                    </li>
-                                    <li>
                                         <a href="#contacts">{this.props.contactInfo.title}</a>
                                     </li>
                                 </ul>

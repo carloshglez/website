@@ -9,7 +9,7 @@ export default class IntroCard extends React.Component {
                     <div className="card   row">
                         <div className="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-1 col-md-3 col-md-offset-2">
                             <div className="row">
-                                <img className="front__image img-responsive" src="http://carloshglez.com/carloshglez.com/proyectos/personal/carloshglez.com_v2/imagenes/logo_portada.png"
+                                <img className="front__image img-responsive" src="karinacortes.com/img/profile2.png"
                                     alt="" />
                             </div>
                         </div>
@@ -50,9 +50,9 @@ export default class IntroCard extends React.Component {
                     </div>
                     <div className="row">
                         <div id="hello" className="col-xs-10 col-xs-offset-1 intro_text">
-                            <h2 id="hello_header">{this.props.welcome.title}</h2>
+                            <h2 id="hello_header" style={{color:'white'}}>{this.props.welcome.title}</h2>
                             <div className="row">
-                                <p>{getTextJoined(this.props.welcome.content)}</p>
+                                <p style={{color:'white'}}>{getTextJoined(this.props.welcome.content)}</p>
                                 <div className="download_cv_block">
                                     <a href={this.props.contactInfo.resumePath} className="btn btn-primary" target="_blank">
                                         <i className="fa fa-file-text-o fa-2x" aria-hidden="true"></i>&nbsp;&nbsp;{this.props.contactInfo.resumeDownloadLabel}
