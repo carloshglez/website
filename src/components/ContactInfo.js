@@ -41,7 +41,13 @@ export default class ContactInfo extends React.Component {
                                                 <i className="fa fa-plane fa-2x" aria-hidden="true"></i>
                                             </dt>
                                             <dd>
-                                                <h6>{this.props.contactInfo.extraInfo}</h6>
+                                                <h6>{this.props.contactInfo.extraInfo[0]}</h6>
+                                            </dd>
+                                            <dt>
+                                                <i className="fa fa-file-text-o fa-2x" aria-hidden="true"></i>
+                                            </dt>
+                                            <dd>
+                                                <h6>{this.props.contactInfo.extraInfo[1]}</h6>
                                             </dd>
                                         </dl>
                                     </div>
