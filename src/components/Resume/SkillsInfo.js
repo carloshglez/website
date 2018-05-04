@@ -35,7 +35,7 @@ export default class SkillsInfo extends React.Component {
                     <div className="col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-1">
                         {newSortedTools[0]}
                     </div>
-                    <div className="col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-1">
+                    <div className="col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-1" style={{marginLeft: 30}}>
                         {newSortedTools[1]}
                     </div>
                 </div>
