@@ -208,7 +208,7 @@ $(document).ready(function () {
 
 			$.ajax({
 			  type: 'POST',
-			  url: 'http://carloshglez.com/carloshglez.com/mail.php',
+			  url: 'http://karinacortes.com/karinacortes.com/mail.php',
 			  data: formData,
 			  success: function() {
                 if(languageFlag === 'English')
