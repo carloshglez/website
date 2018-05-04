@@ -50,9 +50,9 @@ export default class IntroCard extends React.Component {
                     </div>
                     <div className="row">
                         <div id="hello" className="col-xs-10 col-xs-offset-1 intro_text">
-                            <h2 id="hello_header" style={{color:'white'}}>{this.props.welcome.title}</h2>
+                            <h2 id="hello_header">{this.props.welcome.title}</h2>
                             <div className="row">
-                                <p style={{color:'white'}}>{getTextJoined(this.props.welcome.content)}</p>
+                                <p>{getTextJoined(this.props.welcome.content)}</p>
                                 <div className="download_cv_block">
                                     <a href={this.props.contactInfo.resumePath} className="btn btn-primary" target="_blank">
                                         <i className="fa fa-file-text-o fa-2x" aria-hidden="true"></i>&nbsp;&nbsp;{this.props.contactInfo.resumeDownloadLabel}
