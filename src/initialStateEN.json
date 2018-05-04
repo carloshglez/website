@@ -1,23 +1,24 @@
 {
     "-": "-",
-    "name": "Carlos Horacio González Gordillo",
-    "mainHeader": "Computer Science Engineer",
-    "subHeader": "Software Engineering",
+    "name": "Flor Karina Cortés Ramírez",
+    "mainHeader": "Bachelor in International Business",
+    "subHeader": "International Logistic",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2018 - carloshglez",
+    "legalLabel": "2018 - karinacortes",
     "contactInfo": {
         "title": "Contact",
-        "phone": "+52 (811) 011 36 21",
-        "phoneLink": "tel:+528110113621",
-        "email": "carlos_3349@hotmail.com",
-        "emailLink": "mailto:carlos_3349@hotmail.com",
-        "linkedin": "https://mx.linkedin.com/in/carloshglez",
-        "skype": "carloshglez",
-        "skypeLink": "skype:carloshglez?call",
-        "resumePath": "carloshglez.com/cv/CV_CarlosGonzalez.pdf",
-        "resumeDownloadLabel": "Download Resume",
+        "phone": "+52 (271) 749 71 27",
+        "phoneLink": "+522717497127",
+        "email": "karina_1027@hotmail.com",
+        "emailLink": "mailto:karina_1027@hotmail.com",
+        "linkedin": "https://mx.linkedin.com/in/karinacr",
+        "skype": "karina.c.r",
+        "skypeLink": "skype:karina.c.r?call",
+        "resumePath": "karinacortes.com/cv/CV_Karina.pdf",
+        "resumeDownloadLabel": "Descargar CV",
         "extraInfo": [
-            "Availability to change residence and travel."
+            "*Availability to change residence and travel.",
+            "*References are issued upon the request of the interested party."
         ],
         "contactForm": {
             "title": "Send me a message:",
@@ -35,80 +36,78 @@
         "welcome": {
             "title": "Hi!",
             "content": [
-                "Welcome to my personal site!. I developed this place with the purpose of showing my professional experience through the projects in which I have participated, as well as the skills and knowledge that I have acquired.",
-                "I like mobile devices, tablets and other innovative gadgets for solving common problems in daily and professional life. I love to development in mobile and web environments."
+                "I have a degree in International Business with great pleasure for logistics operations at national and international level, through different modes of transportation, in order to achieve optimal operations that generate greater value for enterprises and professional growth."
             ]
         },
         "career": {
             "title": "My Career",
             "content": [
-                "With the knowledge acquired in development of Java, I am confident to implement solutions in embebbed systems, hybrid mobile platforms or native, mainly Android",
-                "I want to acquire techniques for development in more platforms that help to increase productivity in the different technological sectors. I am ready to continue learning, creating new ideas, and do my best effort in the tasks assigned to me."
+                "The experience in logistics operations allows me to take decisions and implement solutions in order to meet the established requirements. I am in the best disposition to complement knowledge with new learning and ideas that allow me to develop myself in an international environment."
             ]
         },
         "education": {
             "title": "Education",
             "content": [
                 {
-                    "degree": "Master Degree: Mobile App Development",
-                    "startDate": "2015",
-                    "endDate": "2016",
-                    "school": "Universidad Internacional de la Rioja",
-                    "achievement": []
-                },
-                {
-                    "degree": "Software Engineering / Entrepreneurial Experience",
+                    "degree": "BACHELOR IN INTERNATIONAL BUSINESS",
                     "startDate": "2007",
                     "endDate": "2012",
                     "school": "Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Central de Veracruz",
                     "achievement": [
-                        "Honorable mention for excellence and GPA 95",
-                        "CENEVAL EGEL-ISOFT: 'Sobresaliente'"
+                        "Honorable mention for excellence and GPA 93.88",
+                        "Diploma of Student Development (2012)",
+                        "Recognition in the Best Semester Projects (2010)"
                     ]
+                },
+                {
+                    "degree": "DIPLOMA: ADMINISTRATION OF TOURIST COMPANIES",
+                    "startDate": "2008",
+                    "endDate": "2010",
+                    "school": "Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Central de Veracruz",
+                    "achievement": []
+                },
+                {
+                    "degree": "BACHELOR DEGREE",
+                    "startDate": "2002",
+                    "endDate": "2005",
+                    "school": "Colegio de Bachilleres del Estado de Veracruz",
+                    "achievement": []
                 }
             ]
         },
         "professionalExperience": {
-            "title": "Profesional Experience",
+            "title": "Professional Experience",
             "content": [
                 {
-                    "company": "Softtek GDL",
-                    "startDate": "2017",
-                    "endDate": "Today",
-                    "summary": [
-                        "Support and Development for DXC Technologies México",
-                        "Front-End development using ReactJS/Node/Redux/Webpackc component and microservices oriented.",
-                        "Dependency manager related to ReactJS development (npm).",
-                        "Docker management of microservices",
-                        "Jenkins automation scripts."
-                    ]
-                },
-                {
-                    "company": "Opanga Networks México",
-                    "startDate": "2012",
+                    "company": "MEXICO AIR CARGO SYSTEMS (Traffic executive)",
+                    "startDate": "2014",
                     "endDate": "2017",
                     "summary": [
-                        "Java Developer (Front-end/Back-end), Spring MVC and Web Services",
-                        "Web Development using JSP and PostgreSQL",
-                        "Glassfish Server management",
-                        "Comunication using Protocol Buffers with Restful Web Services",
-                        "Licensing Alghorith Task to manage network troughput.",
-                        "Basic Android Development (OAuth 2.0, XML parser, AsyncTask)",
-                        "Unit and Integration testing (JUnit / Mockito / Selenium)",
-                        "OWASP Security Standard.",
-                        "Bash/Shell Scripting.",
-                        "New Relic Monitoring."
+                        "Export / Import of maritime and air shipments.",
+                        "Knowledge in Pricing, Customer Service, Billing.",
+                        "Customs Law Knowledge, LIGIE, Incoterms, RRNA."
                     ]
                 },
                 {
-                    "company": "ITESM Campus Central de Veracruz",
-                    "startDate": "2008",
-                    "endDate": "2011",
+                    "company": "ITESM CAMPUS CENTRAL DE VERACRUZ (Professional practices)",
+                    "startDate": "2010",
+                    "endDate": "2012",
                     "summary": [
-                        "Developer assistant for professional training.",
-                        "Java, PHP development with unit and Integration tests,",
-                        "HTML, CSS, jQuery and Android.",
-                        "MySQL data management"
+                        "Society of International Business Students.",
+                        "18° International Business Congress, \"Tendencia al Éxito\".",
+                        "Market research about the internationalization of BIOTTEK laboratories in South America.",
+                        "Market research for the export of \"rainbow trout\" from producers in the Metlac Solano, Ver.",
+                        "Students Group ECOTEC, Ecología del Tec.",
+                        "2° International Business Symposium, \"Todo es Exportable\""
+                    ]
+                },
+                {
+                    "company": "IMPRESIÓN Y ARTE IMPRENTA (Administration and Operation)",
+                    "startDate": "2006",
+                    "endDate": "2010",
+                    "summary": [
+                        "Activities of billing and purchases.",
+                        "Offset printing, folio, silkscreen, design, image improvement."
                     ]
                 }
             ]
@@ -117,89 +116,94 @@
             "title": "Courses and Certificates",
             "content": [
                 {
-                    "name": "Lynda.com Online Courses",
-                    "date": "2017",
+                    "name": "AS CONSULTORES",
+                    "date": "Marzo 2017",
                     "summary": [
-                        "Learning Path: Become a React Developer"
+                        "Legal and Fiscal Protection of Freight Forwarders. Mexico City."
                     ]
                 },
                 {
-                    "name": "Cambridge English Language Assessment",
-                    "date": "2016",
+                    "name": "ITESM CAMPUS CENTRAL DE VERACRUZ",
+                    "date": "2011",
                     "summary": [
-                        "Entry Level Certificate in ESOL International (Europe Level A2) (KEY)",
-                        "Overall Score: 136, Pass with Merit"
-                    ]
-                },
-                {
-                    "name": "Massachusetts Institute of Technology",
-                    "date": "2015",
-                    "summary": [
-                        "Introduction to Computer Science and Programming (Python)."
-                    ]
-                },
-                {
-                    "name": "ITESM Campus Central de Veracruz",
-                    "date": "2009-2012",
-                    "summary": [
-                        "2012: Congress of Industrial and Systems Engineering C12",
-                        "2010: 3D model with Maya",
-                        "2010: ACM - Latin American Regional Contest, Puebla",
-                        "2009: 5S Methodology"
+                        "2011: 12° International Congress of Engineering and Information Technology, “Walking through the future”",
+                        "2010: 17° Business Conference “Innovación en movimiento” and teacher at Prep@net, School on-line",
+                        "2009: 10° International Congress of Industrial Engineering and Information Technology, “What´s next?”",
+                        "2008: 16° Business Conference “Responsablemente Competitivos”"
                     ]
                 }
             ]
         },
         "knowledge": {
-            "title": "Knowledge and Skills",
+            "title": "Skills",
             "topics": [
                 {
-                    "title": "Web Technologies",
+                    "title": "Skills",
                     "tools": [
                         {
-                            "name": "JSP",
+                            "name": "RESULTS ON TIME",
                             "level": 100
                         },
                         {
-                            "name": "HTML 5 / CSS 3",
+                            "name": "FLEXIBLE TASKS",
                             "level": 100
                         },
                         {
-                            "name": "Javascript (jQuery, Ajax)",
-                            "level": 90
+                            "name": "SELF-STUDY",
+                            "level": 100
                         },
                         {
-                            "name": "React JS",
-                            "level": 85
+                            "name": "CREATIVITY",
+                            "level": 100
                         },
                         {
-                            "name": "Spring Web MVC",
-                            "level": 90
+                            "name": "COMMUNICATION",
+                            "level": 100
                         },
                         {
-                            "name": "Restful Web Services",
-                            "level": 80
+                            "name": "HONESTY",
+                            "level": 100
                         },
                         {
-                            "name": "PHP",
-                            "level": 80
+                            "name": "INITIATIVE",
+                            "level": 100
+                        },
+                        {
+                            "name": "PERSEVERANCE",
+                            "level": 100
+                        },
+                        {
+                            "name": "PUNTUALITY",
+                            "level": 100
+                        },
+                        {
+                            "name": "RESPONSIBILITY",
+                            "level": 100
+                        },
+                        {
+                            "name": "LIMIT TIME WORK",
+                            "level": 100
+                        },
+                        {
+                            "name": "TEAM WORK",
+                            "level": 100
                         }
                     ]
                 },
                 {
-                    "title": "Mobile Platforms",
+                    "title": "Knowledge",
                     "tools": [
                         {
-                            "name": "Android",
-                            "level": 90
+                            "name": "MICROSOFT OFFICE SUIT",
+                            "level": 100
                         },
                         {
-                            "name": "Híbrido (Cordova, Progressive Apps)",
-                            "level": 90
+                            "name": "COREL DRAW",
+                            "level": 100
                         },
                         {
-                            "name": "iOS",
-                            "level": 80
+                            "name": "ENGLISH, PROFESSIONAL BASIC COMPETENCE (527 TOEFL)",
+                            "level": 100
                         }
                     ]
                 }
