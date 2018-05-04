@@ -1,8 +1,12 @@
 import React from 'react';
-import { getTextJoined } from '../util/helper'
+import { getTextJoined, isMobileDevice } from '../util/helper'
 
 export default class IntroCard extends React.Component {
     render() {
+        const textColor = {
+            color: isMobileDevice() ? '#412c77' : 'white'
+        };
+
         return (
             <section id="front" className="front">
                 <div className="container">
@@ -50,9 +54,9 @@ export default class IntroCard extends React.Component {
                     </div>
                     <div className="row">
                         <div id="hello" className="col-xs-10 col-xs-offset-1 intro_text">
-                            <h2 id="hello_header">{this.props.welcome.title}</h2>
+                            <h2 id="hello_header" style={textColor}>{this.props.welcome.title}</h2>
                             <div className="row">
-                                <p>{getTextJoined(this.props.welcome.content)}</p>
+                                <p style={textColor}>{getTextJoined(this.props.welcome.content)}</p>
                                 <div className="download_cv_block">
                                     <a href={this.props.contactInfo.resumePath} className="btn btn-primary" target="_blank">
                                         <i className="fa fa-file-text-o fa-2x" aria-hidden="true"></i>&nbsp;&nbsp;{this.props.contactInfo.resumeDownloadLabel}
