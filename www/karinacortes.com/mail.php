@@ -1,6 +1,6 @@
 <?php
 
-	$emailTo = "carlos_3349@hotmail.com"; // Enter your email for feedbacks here 
+	$emailTo = "karina_1027@hotmail.com"; // Enter your email for feedbacks here 
 	
 	$headers = "MIME-Version: 1.0\r\n";
 	$headers .= "Content-type: text/html; charset=utf-8\r\n";
