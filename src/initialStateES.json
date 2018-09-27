@@ -80,13 +80,25 @@
             "title": "Experiencia Profesional",
             "content": [
                 {
+                    "company": "JAS FORWARDING MEXICO (Especialista de Cuentas Especiales)",
+                    "startDate": "2017",
+                    "endDate": "Actual",
+                    "summary": [
+                        "Comunicación directa con: Clientes (Importadores y/o Exportadores), Agentes Aduanales, Navieras, Consolidadoras, Agentes corresponsales, Transportistas.",
+                        "Actividades generales: Customer service, estimación de costos para pago a proveedores, pre-facturación y facturación, pricing, generación de reportes, gestión de envío de documentos.",
+                        "Seguimiento operativo: Manejo de Sofware CargoWise One (C1), Envío y/o recepción de pre-alertas, generar pólizas de seguro,  solicitud de booking, revisión de requisitos previo a liberación de cargas, intercambio de información y/o documentación con Agente Aduanal y Agentes corresponsales, apoyo para generar EUR1, revisión de BL´s, confirmaciones de arribo, coordinación de entregas terrestres.",
+                        "Conocimiento de: Ley Aduanera, LIGIE, Incoterms, RRNA, Transporte aéreo."
+                    ]
+                },
+                {
                     "company": "MEXICO AIR CARGO SYSTEMS (Ejecutiva de Tráfico)",
                     "startDate": "2014",
                     "endDate": "2017",
                     "summary": [
-                        "Exportación/Importación de embarques marítimos y aéreos.",
-                        "Experiencia en Pricing, Customer Service, Facturación.",
-                        "Conocimiento de Ley Aduanera, LIGIE, Incoterms, RRNA."
+                        "Comunicación directa con: Clientes (Importadores y/o Exportadores), Agentes Aduanales, Navieras, Consolidadoras, Agentes corresponsales, Transportistas.",
+                        "Actividades generales: Customer service, costeo y pre-facturación, solicitudes de pago a proveedores, pricing, reportes, cierre físico de expedientes operativos.", 
+                        "Seguimiento operativo: Envío y/o recepción de pre-alertas, solicitud de booking, revisión de requisitos de liberación de cargas, intercambio de información y/o documentación con Agente Aduanal, retroalimentación a Agentes corresponsales, solicitudes de transporte, revisión de BL´s, confirmaciones de arribo en destino.", 
+                        "Conocimiento de: Ley Aduanera, LIGIE, Incoterms, RRNA, Transporte aéreo."
                     ]
                 },
                 {
