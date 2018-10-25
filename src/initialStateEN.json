@@ -14,7 +14,7 @@
         "linkedin": "https://mx.linkedin.com/in/karinacr",
         "skype": "karina.c.r",
         "skypeLink": "skype:karina.c.r?call",
-        "resumePath": "karinacortes.com/cv/CV_Karina.pdf",
+        "resumePath": "karinacortes.com/cv/CV_karina_GDL_EN.pdf",
         "resumeDownloadLabel": "Download Resume",
         "extraInfo": [
             "*Availability to change residence and travel.",
@@ -78,14 +78,26 @@
         "professionalExperience": {
             "title": "Professional Experience",
             "content": [
+				{
+                    "company": "JAS FORWARDING MEXICO (Special Account Specialist)",
+                    "startDate": "2017",
+                    "endDate": "Today",
+                    "summary": [
+						"Direct communiction with: Customers (Importers and/or Exporters), Customs Brokers, Shipping Companies, Coloaders, Correspondent Agents, Carriers.",
+						"General activities: Customer Service, cost estimate for payment to suppliers, pre-billing and billing, pricing, report generation, document delivery management.",
+						"Operational monitoring: CargoWise One (C1) sofware, sending and/or receiving of pre alerts, generate insurance policies, booking request, review of requirements prior to release merchandise to final consignee, exchange of information and/or documentation with Customs Broker and Corresponding agents, support to generate EUR1 doc, review of BL´s, arrival confirmations, coordination of inland shipments.",
+						"Knowledge of: Customs Law, LIGIE, Incoterms, RRNA, Air transport coordination"
+                    ]
+                },
                 {
                     "company": "MEXICO AIR CARGO SYSTEMS (Traffic executive)",
                     "startDate": "2014",
                     "endDate": "2017",
                     "summary": [
-                        "Export / Import of maritime and air shipments.",
-                        "Knowledge in Pricing, Customer Service, Billing.",
-                        "Customs Law Knowledge, LIGIE, Incoterms, RRNA."
+						"Direct communiction with: Customers (Importers and/or Exporters), Customs Brokers, Shipping Companies, Coloaders, Correspondent Agents, Carriers.",
+						"General activities: Customer Service, costing and pre-billing, payment request to suppliers, pricing, reports, physical clousure of operational files.",
+						"Operational monitoring: sending and/or receiving of pre alerts, booking request, review of requirements prior to release merchandise to final consignee, exchange of information and documentation with Customs Brokers, Feedback to Correspondent Agents, Inland transportation requests, review of BL´s, arrival confirmations in destination.",
+						"Knowledge of: Customs Law, LIGIE, Incoterms, RRNA, Air transport coordination."
                     ]
                 },
                 {
@@ -93,12 +105,12 @@
                     "startDate": "2010",
                     "endDate": "2012",
                     "summary": [
-                        "Society of International Business Students.",
-                        "18° International Business Congress, \"Tendencia al Éxito\".",
-                        "Market research about the internationalization of BIOTTEK laboratories in South America.",
-                        "Market research for the export of \"rainbow trout\" from producers in the Metlac Solano, Ver.",
-                        "Students Group ECOTEC, Ecología del Tec.",
-                        "2° International Business Symposium, \"Todo es Exportable\""
+						"International Business Students Society",
+						"18th Congress of International Business \"Tendencia al Éxito\" (Trend Sucess)",
+						"Market research for the internationalization of laboratories BIOTTEK in South America",
+						"Market research for the export of \"trucha arcoíris\" of producers in Metlac Solano, Ver",
+						"Students group ECOTEC, \"Ecología del Tec\"",
+						"2nd International Business Symposium: \"Todo es Exportable\""
                     ]
                 },
                 {
@@ -106,8 +118,8 @@
                     "startDate": "2006",
                     "endDate": "2010",
                     "summary": [
-                        "Activities of billing and purchases.",
-                        "Offset printing, folio, silkscreen, design, image improvement."
+						"Management activities of billing and purchases.",
+						"Offset printing, folio, screen, design, image enhancement."
                     ]
                 }
             ]
@@ -117,7 +129,7 @@
             "content": [
                 {
                     "name": "AS CONSULTORES",
-                    "date": "Marzo 2017",
+                    "date": "March 2017",
                     "summary": [
                         "Legal and Fiscal Protection of Freight Forwarders. Mexico City."
                     ]
@@ -128,8 +140,8 @@
                     "summary": [
                         "2011: 12° International Congress of Engineering and Information Technology, “Walking through the future”",
                         "2010: 17° Business Conference “Innovación en movimiento” and teacher at Prep@net, School on-line",
-                        "2009: 10° International Congress of Industrial Engineering and Information Technology, “What´s next?”",
-                        "2008: 16° Business Conference “Responsablemente Competitivos”"
+                        "2009: 10° & 11° International Congress of Industrial Engineering and Information Technology, “What´s next?”",
+                        "2009: Mentor \"Prep@net\" job (2009 - 2010)"
                     ]
                 }
             ]
@@ -141,11 +153,11 @@
                     "title": "Skills",
                     "tools": [
                         {
-                            "name": "RESULTS ON TIME",
+                            "name": "TIME MANAGEMENT",
                             "level": 100
                         },
                         {
-                            "name": "FLEXIBLE TASKS",
+                            "name": "ADAPTABILITY TO CHANGE",
                             "level": 100
                         },
                         {
@@ -181,11 +193,11 @@
                             "level": 100
                         },
                         {
-                            "name": "LIMIT TIME WORK",
+                            "name": "STRESSWORK",
                             "level": 100
                         },
                         {
-                            "name": "TEAM WORK",
+                            "name": "TEAMWORK",
                             "level": 100
                         }
                     ]
@@ -193,6 +205,10 @@
                 {
                     "title": "Knowledge",
                     "tools": [
+						{
+                            "name": "CargoWise One",
+                            "level": 100
+                        },
                         {
                             "name": "MICROSOFT OFFICE SUIT",
                             "level": 100
@@ -202,7 +218,7 @@
                             "level": 100
                         },
                         {
-                            "name": "ENGLISH, PROFESSIONAL BASIC COMPETENCE (527 TOEFL)",
+                            "name": "ENGLISH, PROFESSIONAL PROFIENCY (527 TOEFL)",
                             "level": 100
                         }
                     ]
