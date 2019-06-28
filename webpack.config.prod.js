@@ -15,12 +15,12 @@ module.exports = {
 			'process.env': {
 				'NODE_ENV': JSON.stringify('production')
 			}
-		}),
+		})/*,
 		new webpack.optimize.UglifyJsPlugin({
 			compressor: {
 				warnings: false
 			}
-		})
+		})*/
 	],
 	module: {
 		rules: [

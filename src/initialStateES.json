@@ -4,7 +4,7 @@
     "mainHeader": "Ingeniero en Tecnologías Computacionales",
     "subHeader": "Concentración en Ingeniería de Software",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2018 - carloshglez",
+    "legalLabel": "2019 - carloshglez",
     "contactInfo": {
         "title": "Contacto",
         "phone": "+52 (811) 011 36 21",
@@ -14,6 +14,8 @@
         "linkedin": "https://mx.linkedin.com/in/carloshglez",
         "skype": "carloshglez",
         "skypeLink": "skype:carloshglez?call",
+        "githubLink": "https://github.com/carloshglez",
+        "bitbucketLink": "https://bitbucket.org/%7B649fee5c-8d48-4410-b3b1-1e25010dffdd%7D/",
         "resumePath": "carloshglez.com/cv/CV_CarlosGonzalez.pdf",
         "resumeDownloadLabel": "Descargar CV",
         "extraInfo": [
@@ -73,9 +75,24 @@
             "title": "Experiencia Profesional",
             "content": [
                 {
+                    "company": "DXC Technologies México",
+                    "startDate": "2018",
+                    "endDate": "Actual",
+                    "summary": [
+                        "Desarrollo Front-end con ReactJS/Node/Redux/Webpack enfocado a componentes.",
+                        "Uso de dependencias relacionadas al desarrollo con ReactJS (npm).",
+                        "Soporte de Nivel 4 para compilado y publicación de aplicaciones móviles.",
+                        "Automatización de compilado de aplicaciones móviles usando Jenkins.",
+                        "Soporte y Actualización de servidores Windows y MacOS con cordoba, gradle, xcode, react, xamarin.",
+                        "Ejecución de Scrum Master en juntas de equipo.",
+                        "Administración de tareas del equipo siguiendo lineamientos de Scrum.",
+                        "Ejecución de proyecto con lineamientos Dev-Ops."
+                    ]
+                },
+                {
                     "company": "Softtek GDL",
                     "startDate": "2017",
-                    "endDate": "Actual",
+                    "endDate": "2018",
                     "summary": [
                         "Desarrollador y Soporte para DXC Technologies México",
                         "Desarrollo Front-end con ReactJS/Node/Redux/Webpack enfocado a componentes.",
@@ -193,10 +210,10 @@
                     "tools": [
                         {
                             "name": "Android",
-                            "level": 90
+                            "level": 100
                         },
                         {
-                            "name": "Híbrido (Cordova, Progressive Apps)",
+                            "name": "Híbrido (Cordova, Progressive Apps, React, Xamarin)",
                             "level": 90
                         },
                         {
@@ -281,6 +298,10 @@
                         {
                             "name": "Amazon Web Services (EC2, S3)",
                             "level": 80
+                        },
+                        {
+                            "name": "Google Cloud Services",
+                            "level": 80
                         }
                     ]
                 }
@@ -290,6 +311,26 @@
             "title": "Portafolio de Aplicaciones",
             "topics": {
                 "profession": [
+                    {
+                        "title": "TAXI 2.0",
+                        "image": "carloshglez.com/logos/tx_logo.png",
+                        "gallery": [],
+                        "summary": [
+                            "TX 2.0 es una aplicación utilizada en una ciudad pequeña para establecer un vínculo de comunicación entre el taxista local y el pasajero, facilitando así el servicio transporte, modernizando la calidad del servicio, incrementando el tiempo sin viajes de los taxistas así como sus ganacias."
+                        ],
+                        "tools": [
+                            "Android",
+                            "Python",
+                            "AWS",
+                            "PostgreSQL"
+                        ],
+                        "demoUrl": [
+                            [
+                                "https://play.google.com/store/apps/details?id=mx.touchtaxi.customer",
+                                "Descargar para Android"
+                            ]
+                        ]
+                    },
                     {
                         "title": "SmartMenu",
                         "image": "carloshglez.com/logos/smartmenu_logo.png",
@@ -833,11 +874,11 @@
                                 "Versión 2"
                             ],
                             [
-                                "carloshglez.com/proyectos/personal/carloshglez.com_v1.5/index.html",
+                                "carloshglez.com/proyectos/personal/carloshglez.com_v1.5/index.php",
                                 "Versión 1.5"
                             ],
                             [
-                                "carloshglez.com/proyectos/personal/carloshglez.com_v1/index.html",
+                                "carloshglez.com/proyectos/personal/carloshglez.com_v1/index.php",
                                 "Versión 1"
                             ]
                         ]

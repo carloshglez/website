@@ -44,6 +44,19 @@ export default class IntroCard extends React.Component {
                                             <i className="fa fa-skype fa-2x" aria-hidden="true" title={this.props.contactInfo.skype}></i>
                                         </a>
                                     </li>
+                                    <li className=".pull-right">
+                                        |
+                                    </li>
+                                    <li className="no_paddings">
+                                        <a href={this.props.contactInfo.githubLink} target="_blank">
+                                            <i className="fa fa-github fa-2x" aria-hidden="true" title={this.props.contactInfo.skype}></i>
+                                        </a>
+                                    </li>
+                                    <li className="no_paddings">
+                                        <a href={this.props.contactInfo.bitbucketLink} target="_blank">
+                                            <i className="fa fa-bitbucket fa-2x" aria-hidden="true" title={this.props.contactInfo.skype}></i>
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
