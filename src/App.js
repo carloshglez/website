@@ -27,8 +27,8 @@ export default class App extends Component {
         super();
         this.appVersion = '1.0.0';
         this.state = {
-            data: myDataES,
-            activeLanguage: languageManager.SPANISH
+            data: myDataEN,
+            activeLanguage: languageManager.ENGLISH
         }
     }
 

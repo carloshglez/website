@@ -4,7 +4,7 @@
     "mainHeader": "Computer Science Engineer",
     "subHeader": "Software Engineering",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2018 - carloshglez",
+    "legalLabel": "2019 - carloshglez",
     "contactInfo": {
         "title": "Contact",
         "phone": "+52 (811) 011 36 21",
@@ -14,6 +14,8 @@
         "linkedin": "https://mx.linkedin.com/in/carloshglez",
         "skype": "carloshglez",
         "skypeLink": "skype:carloshglez?call",
+        "githubLink": "https://github.com/carloshglez",
+        "bitbucketLink": "https://bitbucket.org/%7B649fee5c-8d48-4410-b3b1-1e25010dffdd%7D/",
         "resumePath": "carloshglez.com/cv/CV_CarlosGonzalez.pdf",
         "resumeDownloadLabel": "Download Resume",
         "extraInfo": [
@@ -42,7 +44,7 @@
         "career": {
             "title": "My Career",
             "content": [
-                "With the knowledge acquired in development of Java, I am confident to implement solutions in embebbed systems, hybrid mobile platforms or native, mainly Android",
+                "With the knowledge acquired in development of Java, I am confident to implement solutions in embebbed systems, hybrid mobile platforms or native, mainly Android.",
                 "I want to acquire techniques for development in more platforms that help to increase productivity in the different technological sectors. I am ready to continue learning, creating new ideas, and do my best effort in the tasks assigned to me."
             ]
         },
@@ -72,9 +74,24 @@
             "title": "Profesional Experience",
             "content": [
                 {
+                    "company": "DXC Technologies México",
+                    "startDate": "2018",
+                    "endDate": "Today",
+                    "summary": [
+                        "Front-end development with ReactJS / Node / Redux / Webpack focused on components.",
+                        "Use of dependencies related to development with ReactJS (npm).",
+                        "Level 4 support for compiling and publishing mobile applications.",
+                        "Automation of compilation of mobile applications using Jenkins.",
+                        "Support and update of Windows and MacOS servers with cordoba, gradle, xcode, reaction, xamarin.",
+                        "Execution of Scrum Master in team meetings.",
+                        "Management of team tasks following Scrum guidelines.",
+                        "Execution of project with Dev-Ops guidelines."
+                    ]
+                },
+                {
                     "company": "Softtek GDL",
                     "startDate": "2017",
-                    "endDate": "Today",
+                    "endDate": "2018",
                     "summary": [
                         "Support and Development for DXC Technologies México",
                         "Front-End development using ReactJS/Node/Redux/Webpackc component and microservices oriented.",
@@ -191,10 +208,10 @@
                     "tools": [
                         {
                             "name": "Android",
-                            "level": 90
+                            "level": 100
                         },
                         {
-                            "name": "Híbrido (Cordova, Progressive Apps)",
+                            "name": "Hybrid (Cordova, Progressive Apps, React, Xamarin)",
                             "level": 90
                         },
                         {
@@ -279,6 +296,10 @@
                         {
                             "name": "Amazon Web Services (EC2, S3)",
                             "level": 80
+                        },
+                        {
+                            "name": "Google Cloud Services",
+                            "level": 80
                         }
                     ]
                 }
@@ -288,6 +309,27 @@
             "title": "My Apps",
             "topics": {
                 "profession": [
+                    {
+                        "title": "TAXI 2.0",
+                        "image": "carloshglez.com/logos/tx_logo.png",
+                        "gallery": [],
+                        "summary": [
+                            "All-in-one service to establish a communication link between the taxi driver and the passenger.",
+                            "It adds the use of technology in a local city facilitating the public transport service and incrementing quality, eficiency and profits."
+                        ],
+                        "tools": [
+                            "Android",
+                            "Python",
+                            "AWS",
+                            "PostgreSQL"
+                        ],
+                        "demoUrl": [
+                            [
+                                "https://play.google.com/store/apps/details?id=mx.touchtaxi.customer",
+                                "Android Download"
+                            ]
+                        ]
+                    },
                     {
                         "title": "SmartMenu",
                         "image": "carloshglez.com/logos/smartmenu_logo.png",
@@ -802,11 +844,11 @@
                         "demoUrl": [
                             [
                                 "../chronoverse/index.html",
-                                "Jugar en Web"
+                                "Play on Web"
                             ],
                             [
                                 "https://play.google.com/store/apps/details?id=com.carloshglez.asteroids&hl=es",
-                                "Descargar para Android"
+                                "Android Download"
                             ]
                         ]
                     },
@@ -831,11 +873,11 @@
                                 "Versión 2"
                             ],
                             [
-                                "carloshglez.com/proyectos/personal/carloshglez.com_v1.5/index.html",
+                                "carloshglez.com/proyectos/personal/carloshglez.com_v1.5/index.php",
                                 "Versión 1.5"
                             ],
                             [
-                                "carloshglez.com/proyectos/personal/carloshglez.com_v1/index.html",
+                                "carloshglez.com/proyectos/personal/carloshglez.com_v1/index.php",
                                 "Versión 1"
                             ]
                         ]
@@ -872,7 +914,7 @@
                         "demoUrl": [
                             [
                                 "carloshglez.com/proyectos/personal/Memorama.jar",
-                                "Descargar"
+                                "Download"
                             ]
                         ]
                     },
@@ -894,9 +936,9 @@
                             ]
                         ],
                         "summary": [
-                            "Diviértete con este clásico juego mientras ejercitas tu memoria. Logra el reto de repetir la secuencia de los botones iluminados para ganar el juego.",
-                            "Puedes empezar con el modo clásico o, si consideras que estas listo puedes probar los diferentes modos de juego que ofrece.",
-                            "¿Estás preparado...? Bueno, pues empecemos: Simón dice..."
+                            "Have fun with this classic game while you exercise your memory. Achieve the challenge of repeating the sequence of the illuminated buttons to win the game.",
+                            "You can start with the classic mode or, if you think you're ready, you can try the different game modes it offers.",
+                            "You are ready...? Well, let's start: Simon says ..."
                         ],
                         "tools": [
                             "Java"
@@ -904,7 +946,7 @@
                         "demoUrl": [
                             [
                                 "carloshglez.com/proyectos/personal/Simon.jar",
-                                "Descargar"
+                                "Download"
                             ]
                         ]
                     },
@@ -943,7 +985,7 @@
                         "demoUrl": [
                             [
                                 "carloshglez.com/proyectos/personal/Tesoro.jar",
-                                "Descargar"
+                                "Download"
                             ]
                         ]
                     },
@@ -974,7 +1016,7 @@
                         "demoUrl": [
                             [
                                 "carloshglez.com/proyectos/personal/Gato.jar",
-                                "Descargar"
+                                "Download"
                             ]
                         ]
                     },
@@ -1004,7 +1046,7 @@
                         "demoUrl": [
                             [
                                 "carloshglez.com/proyectos/personal/Calendario.jar",
-                                "Descargar"
+                                "Download"
                             ]
                         ]
                     }
