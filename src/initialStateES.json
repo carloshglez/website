@@ -346,7 +346,12 @@
                             "MySQL",
                             "Javascript"
                         ],
-                        "demoUrl": []
+                        "demoUrl": [
+                            [
+                                "carloshglez.com/proyectos/personal/SmartMenu-v1.0-release.apk",
+                                "Descargar para Android"
+                            ]
+                        ]
                     },
                     {
                         "title": "SARA (Sistema Administrativo Radiológico)",
