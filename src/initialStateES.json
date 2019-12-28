@@ -75,9 +75,19 @@
             "title": "Experiencia Profesional",
             "content": [
                 {
+                    "company": "Metova, Inc.",
+                    "startDate": "2019",
+                    "endDate": "Actual",
+                    "summary": [
+                        "Desarrollo de aplicaciones Android",
+                        "Automatización de compilado de aplicaciones móviles usando Jenkins.",
+                        "Gestión de cuentas de Firebase y Google Play Console"
+                    ]
+                },
+                {
                     "company": "DXC Technologies México",
                     "startDate": "2018",
-                    "endDate": "Actual",
+                    "endDate": "2019",
                     "summary": [
                         "Desarrollo Front-end con ReactJS/Node/Redux/Webpack enfocado a componentes.",
                         "Uso de dependencias relacionadas al desarrollo con ReactJS (npm).",
