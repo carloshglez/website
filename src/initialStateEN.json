@@ -128,6 +128,13 @@
             "title": "Courses and Certificates",
             "content": [
                 {
+                    "name": "ETTA/EDUCI",
+                    "date": "October to December 2020",
+                    "summary": [
+                        "Diploma course on International logistics. Guadalajara, Jalisco."
+                    ]
+                },
+                {
                     "name": "AS CONSULTORES",
                     "date": "March 2017",
                     "summary": [
@@ -161,7 +168,7 @@
                             "level": 100
                         },
                         {
-                            "name": "SELF-STUDY",
+                            "name": "CONTINUOUS TRAINING",
                             "level": 100
                         },
                         {

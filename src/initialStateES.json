@@ -129,6 +129,13 @@
             "title": "Cursos y Certificaciones",
             "content": [
                 {
+                    "name": "ETTA/EDUCI",
+                    "date": "Octubre a Diciembre 2020",
+                    "summary": [
+                        "Diplomado de Logística Internacional. Impartido en la Ciudad de Guadalajara, Jalisco."
+                    ]
+                },
+                {
                     "name": "AS CONSULTORES",
                     "date": "Marzo 2017",
                     "summary": [
@@ -162,7 +169,7 @@
                             "level": 100
                         },
                         {
-                            "name": "AUTO-ESTUDIO",
+                            "name": "CAPACITACIÓN CONTINUA",
                             "level": 100
                         },
                         {
