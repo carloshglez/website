@@ -4,7 +4,7 @@
     "mainHeader": "Licenciada en Negocios Internacionales",
     "subHeader": "Concentración en Logística Internacional",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2021 - karinacortes",
+    "legalLabel": "2022 - karinacortes",
     "contactInfo": {
         "title": "Contacto",
         "phone": "+52 (271) 749 71 27",
@@ -82,7 +82,7 @@
                 {
                     "company": "JAS FORWARDING MEXICO (Especialista de Cuentas Especiales)",
                     "startDate": "2017",
-                    "endDate": "Actual",
+                    "endDate": "2022",
                     "summary": [
                         "Comunicación directa con: Clientes (Importadores y/o Exportadores), Agentes Aduanales, Navieras, Consolidadoras, Agentes corresponsales, Transportistas.",
                         "Actividades generales: Customer service, estimación de costos para pago a proveedores, pre-facturación y facturación, pricing, generación de reportes, gestión de envío de documentos.",
@@ -218,7 +218,11 @@
                             "level": 100
                         },
                         {
-                            "name": "PAQUETERIA BÁSICA DE MICROSOFT OFFICE",
+                            "name": "PLATAFORMAS DE LINEAS NAVIERAS",
+                            "level": 100
+                        },
+                        {
+                            "name": "PAQUETERIA DE MICROSOFT OFFICE",
                             "level": 100
                         },
                         {
@@ -226,7 +230,7 @@
                             "level": 100
                         },
                         {
-                            "name": "INGLÉS, COMPETENCIA BÁSICA PROFESIONAL (527 TOEFL)",
+                            "name": "INGLÉS: INTERMEDIO PROFESIONAL",
                             "level": 100
                         }
                     ]

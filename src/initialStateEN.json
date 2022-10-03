@@ -4,7 +4,7 @@
     "mainHeader": "Bachelor in International Business",
     "subHeader": "International Logistic",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2021 - karinacortes",
+    "legalLabel": "2022 - karinacortes",
     "contactInfo": {
         "title": "Contact",
         "phone": "+52 (271) 749 71 27",
@@ -81,7 +81,7 @@
 				{
                     "company": "JAS FORWARDING MEXICO (Special Account Specialist)",
                     "startDate": "2017",
-                    "endDate": "Today",
+                    "endDate": "2022",
                     "summary": [
 						"Direct communiction with: Customers (Importers and/or Exporters), Customs Brokers, Shipping Companies, Coloaders, Correspondent Agents, Carriers.",
 						"General activities: Customer Service, cost estimate for payment to suppliers, pre-billing and billing, pricing, report generation, document delivery management.",
@@ -217,6 +217,10 @@
                             "level": 100
                         },
                         {
+                            "name": "SHIPPING LINE PLATFORMS",
+                            "level": 100
+                        },
+                        {
                             "name": "MICROSOFT OFFICE SUIT",
                             "level": 100
                         },
@@ -225,7 +229,7 @@
                             "level": 100
                         },
                         {
-                            "name": "ENGLISH, PROFESSIONAL PROFIENCY (527 TOEFL)",
+                            "name": "ENGLISH, PROFESSIONAL PROFIENCY",
                             "level": 100
                         }
                     ]
