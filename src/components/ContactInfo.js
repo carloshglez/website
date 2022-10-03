@@ -38,7 +38,7 @@ export default class ContactInfo extends React.Component {
                                             </dd>
                                             <hr />
                                             <dt>
-                                                <i className="fa fa-plane fa-2x" aria-hidden="true"></i>
+                                                <i className="fa fa-laptop fa-2x" aria-hidden="true"></i>
                                             </dt>
                                             <dd>
                                                 <h6>{this.props.contactInfo.extraInfo}</h6>
