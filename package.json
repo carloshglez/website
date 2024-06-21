@@ -1,14 +1,14 @@
 {
   "name": "com.carloshglez",
   "displayName": "carloshglez",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "My personal web site",
   "main": "index.html",
   "scripts": {
     "clean": "rimraf www/js/bundle.js",
     "build-dev": "npm run clean && SET NODE_ENV=develop & webpack --config webpack.config.js",
     "build-prod": "npm run clean && SET NODE_ENV=production & webpack --config webpack.config.prod.js",
-    "start": "./node_modules/.bin/webpack-dev-server",
+    "start": ".\\node_modules\\.bin\\webpack-dev-server",
     "lint": "eslint src",
     "lint-report": "./node_modules/.bin/eslint -f html src > lint-report.html"
   },
