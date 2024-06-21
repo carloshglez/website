@@ -4,7 +4,7 @@
     "mainHeader": "Ingeniero en Tecnologías Computacionales",
     "subHeader": "Concentración en Ingeniería de Software",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2019 - carloshglez",
+    "legalLabel": "2022 - carloshglez",
     "contactInfo": {
         "title": "Contacto",
         "phone": "+52 (811) 011 36 21",
@@ -15,11 +15,10 @@
         "skype": "carloshglez",
         "skypeLink": "skype:carloshglez?call",
         "githubLink": "https://github.com/carloshglez",
-        "bitbucketLink": "https://bitbucket.org/%7B649fee5c-8d48-4410-b3b1-1e25010dffdd%7D/",
         "resumePath": "carloshglez.com/cv/CV_CarlosGonzalez.pdf",
         "resumeDownloadLabel": "Descargar CV",
         "extraInfo": [
-            "Disponibilidad para viajar y cambiar de residencia."
+            "Disponibilidad para trabajo en modalidad remoto."
         ],
         "contactForm": {
             "title": "Envíame un mensaje aquí:",
@@ -75,9 +74,23 @@
             "title": "Experiencia Profesional",
             "content": [
                 {
+                    "company": "Metova, Inc.",
+                    "startDate": "2019",
+                    "endDate": "Actual",
+                    "summary": [
+                        "Desarrollo de aplicaciones Android",
+                        "Automatización de compilado de aplicaciones móviles usando Jenkins",
+                        "Gestión de cuentas de Firebase y Google Play Console",
+                        "Implementación de Firebase en aplicaciones",
+                        "Administración de tareas del equipo siguiendo lineamientos de Scrum",
+                        "Manejo de Jira y Confluence como herramientas para gestión de proyectos",
+                        "Trabajo con equipos extranjeros y multidisciplinarios"
+                    ]
+                },
+                {
                     "company": "DXC Technologies México",
                     "startDate": "2018",
-                    "endDate": "Actual",
+                    "endDate": "2019",
                     "summary": [
                         "Desarrollo Front-end con ReactJS/Node/Redux/Webpack enfocado a componentes.",
                         "Uso de dependencias relacionadas al desarrollo con ReactJS (npm).",
@@ -176,10 +189,6 @@
                     "title": "Tecnologías Web",
                     "tools": [
                         {
-                            "name": "JSP",
-                            "level": 100
-                        },
-                        {
                             "name": "HTML 5 / CSS 3",
                             "level": 100
                         },
@@ -197,7 +206,11 @@
                         },
                         {
                             "name": "Restful Web Services",
-                            "level": 80
+                            "level": 90
+                        },
+                        {
+                            "name": "JSP",
+                            "level": 100
                         },
                         {
                             "name": "PHP",
@@ -256,15 +269,15 @@
                         },
                         {
                             "name": "Jenkins",
+                            "level": 90
+                        },
+                        {
+                            "name": "Glassfish",
                             "level": 80
                         },
                         {
                             "name": "Docker",
                             "level": 70
-                        },
-                        {
-                            "name": "Glassfish",
-                            "level": 80
                         }
                     ]
                 },
@@ -280,8 +293,8 @@
                             "level": 100
                         },
                         {
-                            "name": "xCode",
-                            "level": 80
+                            "name": "Firebase",
+                            "level": 90
                         },
                         {
                             "name": "Bash / Shell Scripts",
@@ -294,6 +307,10 @@
                         {
                             "name": "UML Case Tools",
                             "level": 90
+                        },
+                        {
+                            "name": "xCode",
+                            "level": 80
                         },
                         {
                             "name": "Amazon Web Services (EC2, S3)",

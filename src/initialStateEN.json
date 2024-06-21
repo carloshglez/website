@@ -4,7 +4,7 @@
     "mainHeader": "Computer Science Engineer",
     "subHeader": "Software Engineering",
     "legalUrl": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "legalLabel": "2019 - carloshglez",
+    "legalLabel": "2022 - carloshglez",
     "contactInfo": {
         "title": "Contact",
         "phone": "+52 (811) 011 36 21",
@@ -15,11 +15,10 @@
         "skype": "carloshglez",
         "skypeLink": "skype:carloshglez?call",
         "githubLink": "https://github.com/carloshglez",
-        "bitbucketLink": "https://bitbucket.org/%7B649fee5c-8d48-4410-b3b1-1e25010dffdd%7D/",
         "resumePath": "carloshglez.com/cv/CV_CarlosGonzalez.pdf",
         "resumeDownloadLabel": "Download Resume",
         "extraInfo": [
-            "Availability to change residence and travel."
+            "Availability to home office work."
         ],
         "contactForm": {
             "title": "Send me a message:",
@@ -74,9 +73,23 @@
             "title": "Profesional Experience",
             "content": [
                 {
+                    "company": "Metova, Inc.",
+                    "startDate": "2019",
+                    "endDate": "Today",
+                    "summary": [
+                        "Android apps development",
+                        "Automation of compilation of mobile applications using Jenkins",
+                        "Firebase and Google Play Console accounts manager",
+                        "Firebase implementation in different applications",
+                        "Management of team tasks following Scrum guidelines",
+                        "Project Management tools: Jira and Confluence",
+                        "Foreign and multidisciplinary team work"
+                    ]
+                },
+                {
                     "company": "DXC Technologies México",
                     "startDate": "2018",
-                    "endDate": "Today",
+                    "endDate": "2019",
                     "summary": [
                         "Front-end development with ReactJS / Node / Redux / Webpack focused on components.",
                         "Use of dependencies related to development with ReactJS (npm).",
@@ -174,10 +187,6 @@
                     "title": "Web Technologies",
                     "tools": [
                         {
-                            "name": "JSP",
-                            "level": 100
-                        },
-                        {
                             "name": "HTML 5 / CSS 3",
                             "level": 100
                         },
@@ -195,7 +204,11 @@
                         },
                         {
                             "name": "Restful Web Services",
-                            "level": 80
+                            "level": 90
+                        },
+                        {
+                            "name": "JSP",
+                            "level": 100
                         },
                         {
                             "name": "PHP",
@@ -254,15 +267,15 @@
                         },
                         {
                             "name": "Jenkins",
+                            "level": 90
+                        },
+                        {
+                            "name": "Glassfish",
                             "level": 80
                         },
                         {
                             "name": "Docker",
                             "level": 70
-                        },
-                        {
-                            "name": "Glassfish",
-                            "level": 80
                         }
                     ]
                 },
@@ -278,8 +291,8 @@
                             "level": 100
                         },
                         {
-                            "name": "xCode",
-                            "level": 80
+                            "name": "Firebase",
+                            "level": 90
                         },
                         {
                             "name": "Bash / Shell Scripts",
@@ -292,6 +305,10 @@
                         {
                             "name": "UML Case Tools",
                             "level": 90
+                        },
+                        {
+                            "name": "xCode",
+                            "level": 80
                         },
                         {
                             "name": "Amazon Web Services (EC2, S3)",
